@@ -1,6 +1,6 @@
 # Screenshot-Text
 ***
-2º Project, in this project we are making a script that take the text of an screenshot, It's a simple code but this Readme is necessary because you have to install certain libraries.
+1º Project, in this project we are making a script that take the text of an screenshot, It's a simple code but this Readme is necessary because you have to install certain libraries.
 
 ## How it Works?
 ***
@@ -26,7 +26,9 @@
   > https://github.com/UB-Mannheim/tesseract/wiki
 
 - You must be sure that you have libraries like os or PIL, otherwise use:
+
 ```
+  $ pip install numpy
   $ pip install os-win
   $ pip install Pillow
   $ pip install pyperclip3
@@ -34,7 +36,12 @@
   $ pip install PySimpleGUI
   $ pip install pycopy-fnmatch 
   $ pip install fnmatch2
-  ```
+  $ pip install io
+  $ pip install --upgrade pywin32
+  $ pip install pyautogui
+  $ pip install cv2
   
+  ```
+  ~Made with python version >= python 3.9
   We hope you enjoy it!
   Have a good code!
