@@ -1,4 +1,4 @@
-# Screenshot-Text
+# Screenshot to Text
 ***
 1º Project, in this project we are making a script that take the text of an screenshot, It's a simple code but this Readme is necessary because you have to install certain libraries.
 
